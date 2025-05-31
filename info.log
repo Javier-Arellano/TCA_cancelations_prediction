@@ -1,0 +1,1259 @@
+2025-05-28 17:38:32,981 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 17:38:38,063 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 20:27:15,999 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 20:27:18,244 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 21:39:40,428 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 21:39:41,745 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-28 21:39:42,159 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-28 21:40:19,500 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 21:41:02,787 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 21:41:03,587 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-28 21:41:03,697 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-28 21:41:05,045 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 21:41:47,953 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 21:41:48,815 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-28 21:41:48,919 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-28 21:41:50,516 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 21:44:33,617 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 21:44:34,391 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-28 21:44:34,496 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-28 21:44:35,778 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 21:45:07,945 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 21:45:08,745 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-28 21:45:08,858 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-28 21:45:10,125 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 21:45:44,781 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 21:45:45,605 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-28 21:45:45,685 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-28 21:45:47,165 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 21:48:31,439 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 21:48:32,202 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-28 21:48:32,299 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-28 21:48:33,571 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 21:48:33,841 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2025-05-28 21:48:33,856 - kedro.io.data_catalog - INFO - Loading data from iar_Reservaciones (CSVDataset)...
+2025-05-28 21:48:34,876 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:166: DtypeWarning: Columns (22,28) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-05-28 21:48:35,171 - kedro.io.data_catalog - INFO - Loading data from id_Agencias (ExcelDataset)...
+2025-05-28 21:48:38,520 - kedro.io.data_catalog - INFO - Loading data from id_Canales (ExcelDataset)...
+2025-05-28 21:48:38,536 - kedro.io.data_catalog - INFO - Loading data from id_Empresa (ExcelDataset)...
+2025-05-28 21:48:38,567 - kedro.io.data_catalog - INFO - Loading data from id_Estados (ExcelDataset)...
+2025-05-28 21:48:38,616 - kedro.io.data_catalog - INFO - Loading data from id_Habitacion (ExcelDataset)...
+2025-05-28 21:48:38,636 - kedro.io.data_catalog - INFO - Loading data from id_Paises (ExcelDataset)...
+2025-05-28 21:48:38,666 - kedro.io.data_catalog - INFO - Loading data from id_Paquete (ExcelDataset)...
+2025-05-28 21:48:38,682 - kedro.io.data_catalog - INFO - Loading data from id_Programa (ExcelDataset)...
+2025-05-28 21:48:38,703 - kedro.io.data_catalog - INFO - Loading data from id_Reservaciones (ExcelDataset)...
+2025-05-28 21:48:38,730 - kedro.io.data_catalog - INFO - Loading data from id_Segmento (ExcelDataset)...
+2025-05-28 21:48:38,750 - kedro.pipeline.node - INFO - Running node: processed_reservas_node: procesar_reservas([iar_Reservaciones;id_Agencias;id_Canales;id_Empresa;id_Estados;id_Habitacion;id_Paises;id_Paquete;id_Programa;id_Reservaciones;id_Segmento]) -> [processed_reservas]
+2025-05-28 21:48:41,123 - kedro.io.data_catalog - INFO - Saving data to processed_reservas (ParquetDataset)...
+2025-05-28 21:48:41,276 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2025-05-28 21:50:26,353 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 21:50:27,151 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-28 21:50:27,249 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-28 21:50:28,523 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 21:50:28,799 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2025-05-28 21:50:28,799 - kedro.io.data_catalog - INFO - Loading data from iar_Reservaciones (CSVDataset)...
+2025-05-28 21:50:29,487 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro_datasets\pandas\csv_dataset.py:166: DtypeWarning: Columns (22,28) have mixed types. Specify dtype option on import or set low_memory=False.
+  return pd.read_csv(load_path, **self._load_args)
+
+2025-05-28 21:50:29,606 - kedro.io.data_catalog - INFO - Loading data from id_Agencias (ExcelDataset)...
+2025-05-28 21:50:29,824 - kedro.io.data_catalog - INFO - Loading data from id_Canales (ExcelDataset)...
+2025-05-28 21:50:29,842 - kedro.io.data_catalog - INFO - Loading data from id_Empresa (ExcelDataset)...
+2025-05-28 21:50:29,852 - kedro.io.data_catalog - INFO - Loading data from id_Estados (ExcelDataset)...
+2025-05-28 21:50:29,892 - kedro.io.data_catalog - INFO - Loading data from id_Habitacion (ExcelDataset)...
+2025-05-28 21:50:29,912 - kedro.io.data_catalog - INFO - Loading data from id_Paises (ExcelDataset)...
+2025-05-28 21:50:29,942 - kedro.io.data_catalog - INFO - Loading data from id_Paquete (ExcelDataset)...
+2025-05-28 21:50:29,948 - kedro.io.data_catalog - INFO - Loading data from id_Programa (ExcelDataset)...
+2025-05-28 21:50:29,960 - kedro.io.data_catalog - INFO - Loading data from id_Reservaciones (ExcelDataset)...
+2025-05-28 21:50:29,961 - kedro.io.data_catalog - INFO - Loading data from id_Segmento (ExcelDataset)...
+2025-05-28 21:50:29,977 - kedro.pipeline.node - INFO - Running node: processed_reservas_node: procesar_reservas([iar_Reservaciones;id_Agencias;id_Canales;id_Empresa;id_Estados;id_Habitacion;id_Paises;id_Paquete;id_Programa;id_Reservaciones;id_Segmento]) -> [processed_reservas]
+2025-05-28 21:50:31,917 - kedro.io.data_catalog - INFO - Saving data to processed_reservas (ParquetDataset)...
+2025-05-28 21:50:33,305 - kedro.runner.sequential_runner - INFO - Completed node: processed_reservas_node
+2025-05-28 21:50:33,321 - kedro.runner.sequential_runner - INFO - Completed 1 out of 2 tasks
+2025-05-28 21:50:33,321 - kedro.io.data_catalog - INFO - Loading data from processed_reservas (ParquetDataset)...
+2025-05-28 21:50:33,706 - kedro.pipeline.node - INFO - Running node: features_table_node: get_pesos([processed_reservas]) -> [features_table]
+2025-05-28 21:50:34,166 - kedro.io.data_catalog - INFO - Saving data to features_table (ParquetDataset)...
+2025-05-28 21:50:34,539 - kedro.runner.sequential_runner - INFO - Completed node: features_table_node
+2025-05-28 21:50:34,555 - kedro.runner.sequential_runner - INFO - Completed 2 out of 2 tasks
+2025-05-28 21:50:34,556 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-05-28 21:51:36,477 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 21:51:37,260 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-28 21:51:37,359 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-28 21:51:38,624 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 21:53:58,986 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-28 21:53:59,773 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-28 21:53:59,871 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-28 21:54:01,126 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-28 21:54:01,432 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2025-05-28 21:54:01,432 - kedro.io.data_catalog - INFO - Loading data from model_input_table (ParquetDataset)...
+2025-05-28 21:54:01,567 - kedro.io.data_catalog - INFO - Loading data from params:model_options (MemoryDataset)...
+2025-05-28 21:54:01,776 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([model_input_table;params:model_options]) -> [X_train;X_test;y_train;y_test]
+2025-05-28 21:54:01,871 - kedro.io.data_catalog - INFO - Saving data to X_train (MemoryDataset)...
+2025-05-28 21:54:01,875 - kedro.io.data_catalog - INFO - Saving data to X_test (MemoryDataset)...
+2025-05-28 21:54:01,878 - kedro.io.data_catalog - INFO - Saving data to y_train (MemoryDataset)...
+2025-05-28 21:54:01,881 - kedro.io.data_catalog - INFO - Saving data to y_test (MemoryDataset)...
+2025-05-28 21:54:01,888 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2025-05-28 21:54:01,888 - kedro.runner.sequential_runner - INFO - Completed 1 out of 4 tasks
+2025-05-28 21:54:01,903 - kedro.io.data_catalog - INFO - Loading data from X_train (MemoryDataset)...
+2025-05-28 21:54:01,907 - kedro.io.data_catalog - INFO - Loading data from y_train (MemoryDataset)...
+2025-05-28 21:54:01,910 - kedro.io.data_catalog - INFO - Loading data from best_params (JSONDataset)...
+2025-05-28 21:54:01,913 - kedro.runner.sequential_runner - WARNING - There are 3 nodes that have not run.
+You can resume the pipeline run from the nearest nodes with persisted inputs by adding the following argument to your previous command:
+  --from-nodes "split_data_node"
+2025-05-29 15:02:06,608 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-29 15:02:08,728 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-29 15:02:09,001 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-29 15:02:24,403 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-29 15:02:24,751 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2025-05-29 15:02:24,751 - kedro.io.data_catalog - INFO - Loading data from model_input_table (ParquetDataset)...
+2025-05-29 15:02:26,693 - kedro.io.data_catalog - INFO - Loading data from params:model_options (MemoryDataset)...
+2025-05-29 15:02:26,693 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([model_input_table;params:model_options]) -> [X_train;X_test;y_train;y_test]
+2025-05-29 15:02:26,889 - kedro.io.data_catalog - INFO - Saving data to X_train (MemoryDataset)...
+2025-05-29 15:02:26,905 - kedro.io.data_catalog - INFO - Saving data to X_test (MemoryDataset)...
+2025-05-29 15:02:26,910 - kedro.io.data_catalog - INFO - Saving data to y_train (MemoryDataset)...
+2025-05-29 15:02:26,914 - kedro.io.data_catalog - INFO - Saving data to y_test (MemoryDataset)...
+2025-05-29 15:02:26,931 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2025-05-29 15:02:26,932 - kedro.runner.sequential_runner - INFO - Completed 1 out of 4 tasks
+2025-05-29 15:02:26,933 - kedro.io.data_catalog - INFO - Loading data from X_train (MemoryDataset)...
+2025-05-29 15:02:26,934 - kedro.io.data_catalog - INFO - Loading data from y_train (MemoryDataset)...
+2025-05-29 15:02:26,940 - kedro.io.data_catalog - INFO - Loading data from best_params (JSONDataset)...
+2025-05-29 15:02:26,942 - kedro.runner.sequential_runner - WARNING - There are 3 nodes that have not run.
+You can resume the pipeline run from the nearest nodes with persisted inputs by adding the following argument to your previous command:
+  --from-nodes "split_data_node"
+2025-05-29 15:21:08,142 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-29 15:21:09,792 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-29 15:21:09,905 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-29 15:21:28,258 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-29 15:22:19,496 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-29 15:22:20,265 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-29 15:22:20,367 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-29 15:22:21,620 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-29 15:22:21,910 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2025-05-29 15:22:21,910 - kedro.io.data_catalog - INFO - Loading data from model_input_table (ParquetDataset)...
+2025-05-29 15:22:22,546 - kedro.io.data_catalog - INFO - Loading data from params:model_options (MemoryDataset)...
+2025-05-29 15:22:22,546 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([model_input_table;params:model_options]) -> [X_train;X_test;y_train;y_test]
+2025-05-29 15:22:22,568 - kedro.io.data_catalog - INFO - Saving data to X_train (MemoryDataset)...
+2025-05-29 15:22:22,587 - kedro.io.data_catalog - INFO - Saving data to X_test (MemoryDataset)...
+2025-05-29 15:22:22,590 - kedro.io.data_catalog - INFO - Saving data to y_train (MemoryDataset)...
+2025-05-29 15:22:22,593 - kedro.io.data_catalog - INFO - Saving data to y_test (MemoryDataset)...
+2025-05-29 15:22:22,608 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2025-05-29 15:22:22,608 - kedro.runner.sequential_runner - INFO - Completed 1 out of 5 tasks
+2025-05-29 15:22:22,614 - kedro.io.data_catalog - INFO - Loading data from X_train (MemoryDataset)...
+2025-05-29 15:22:22,619 - kedro.io.data_catalog - INFO - Loading data from y_train (MemoryDataset)...
+2025-05-29 15:22:22,624 - kedro.io.data_catalog - INFO - Loading data from best_params (JSONDataset)...
+2025-05-29 15:22:22,628 - kedro.runner.sequential_runner - WARNING - There are 4 nodes that have not run.
+You can resume the pipeline run from the nearest nodes with persisted inputs by adding the following argument to your previous command:
+  --from-nodes "split_data_node"
+2025-05-29 15:43:58,601 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-29 15:43:59,400 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-29 15:43:59,500 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-29 15:44:00,781 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-29 15:44:01,054 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2025-05-29 15:44:01,054 - kedro.io.data_catalog - INFO - Loading data from model_input_table (ParquetDataset)...
+2025-05-29 15:44:01,207 - kedro.io.data_catalog - INFO - Loading data from params:model_options (MemoryDataset)...
+2025-05-29 15:44:01,209 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([model_input_table;params:model_options]) -> [X_train;X_test;y_train;y_test]
+2025-05-29 15:44:01,231 - kedro.io.data_catalog - INFO - Saving data to X_train (MemoryDataset)...
+2025-05-29 15:44:01,231 - kedro.io.data_catalog - INFO - Saving data to X_test (MemoryDataset)...
+2025-05-29 15:44:01,240 - kedro.io.data_catalog - INFO - Saving data to y_train (MemoryDataset)...
+2025-05-29 15:44:01,244 - kedro.io.data_catalog - INFO - Saving data to y_test (MemoryDataset)...
+2025-05-29 15:44:01,268 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2025-05-29 15:44:01,270 - kedro.runner.sequential_runner - INFO - Completed 1 out of 5 tasks
+2025-05-29 15:44:01,271 - kedro.io.data_catalog - INFO - Loading data from X_train (MemoryDataset)...
+2025-05-29 15:44:01,279 - kedro.io.data_catalog - INFO - Loading data from y_train (MemoryDataset)...
+2025-05-29 15:44:01,282 - kedro.io.data_catalog - INFO - Loading data from best_params (JSONDataset)...
+2025-05-29 15:44:01,287 - kedro.runner.sequential_runner - WARNING - There are 4 nodes that have not run.
+You can resume the pipeline run from the nearest nodes with persisted inputs by adding the following argument to your previous command:
+  --from-nodes "split_data_node"
+2025-05-29 15:55:30,087 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-29 15:55:31,490 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-29 15:55:31,614 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-29 15:55:38,914 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-29 16:46:06,461 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-29 16:46:07,261 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-29 16:46:07,363 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-29 16:46:08,805 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-29 16:46:48,489 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-29 16:46:49,273 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-29 16:46:49,374 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-29 16:46:50,788 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-29 16:46:51,077 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2025-05-29 16:46:51,077 - kedro.io.data_catalog - INFO - Loading data from model_input_table (ParquetDataset)...
+2025-05-29 16:46:52,182 - kedro.io.data_catalog - INFO - Loading data from params:model_options (MemoryDataset)...
+2025-05-29 16:46:52,198 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([model_input_table;params:model_options]) -> [X_train;X_test;y_train;y_test]
+2025-05-29 16:46:52,320 - kedro.io.data_catalog - INFO - Saving data to X_train (MemoryDataset)...
+2025-05-29 16:46:52,335 - kedro.io.data_catalog - INFO - Saving data to X_test (MemoryDataset)...
+2025-05-29 16:46:52,335 - kedro.io.data_catalog - INFO - Saving data to y_train (MemoryDataset)...
+2025-05-29 16:46:52,345 - kedro.io.data_catalog - INFO - Saving data to y_test (MemoryDataset)...
+2025-05-29 16:46:52,361 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2025-05-29 16:46:52,361 - kedro.runner.sequential_runner - INFO - Completed 1 out of 5 tasks
+2025-05-29 16:46:52,365 - kedro.io.data_catalog - INFO - Loading data from X_train (MemoryDataset)...
+2025-05-29 16:46:52,369 - kedro.io.data_catalog - INFO - Loading data from y_train (MemoryDataset)...
+2025-05-29 16:46:52,373 - kedro.pipeline.node - INFO - Running node: train_model_node: train_xgb_model([X_train;y_train]) -> [classifier]
+2025-05-29 16:46:57,011 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:46:56] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:46:57,489 - kedro.io.data_catalog - INFO - Saving data to classifier (PickleDataset)...
+2025-05-29 16:46:57,520 - kedro.runner.sequential_runner - INFO - Completed node: train_model_node
+2025-05-29 16:46:57,520 - kedro.runner.sequential_runner - INFO - Completed 2 out of 5 tasks
+2025-05-29 16:46:57,520 - kedro.io.data_catalog - INFO - Loading data from X_train (MemoryDataset)...
+2025-05-29 16:46:57,520 - kedro.io.data_catalog - INFO - Loading data from y_train (MemoryDataset)...
+2025-05-29 16:46:57,520 - kedro.pipeline.node - INFO - Running node: tunning_params_node: get_best_hip_params([X_train;y_train]) -> [best_hyper_params]
+2025-05-29 16:46:57,588 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:46:57] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:46:58,785 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:46:58] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:46:59,886 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:46:59] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:00,820 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:00] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:01,173 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:01,434 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:01,735 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:02,239 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:02] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:02,702 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:02] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:03,151 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:03] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:03,537 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:03] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:04,019 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:04] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:04,454 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:04] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:05,539 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:05] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:06,700 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:06] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:07,769 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:07] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:08,448 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:08] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:09,086 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:09] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:09,719 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:09] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:10,168 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:10] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:10,652 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:10] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:11,100 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:11,632 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:12,147 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:12] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:12,718 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:12] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:13,917 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:15,211 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:15] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:16,431 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:16] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:17,130 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:17] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:17,865 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:17] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:18,597 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:18] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:20,260 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:20] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:21,991 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:21] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:23,441 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:23] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:24,274 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:24] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:25,054 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:25] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:25,837 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:25] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:26,413 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:26,944 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:27,473 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:27] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:29,038 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:29] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:30,586 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:30] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:32,088 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:32] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:32,321 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:32] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:32,557 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:32] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:32,837 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:32] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:33,307 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:33] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:33,758 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:33] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:34,234 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:34] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:34,806 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:34] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:35,436 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:35] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:36,023 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:36] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:36,668 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:36] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:37,266 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:37] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:37,834 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:37] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:38,664 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:38] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:39,650 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:39] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:40,477 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:40] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:40,900 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:40] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:41,331 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:41,864 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [16:47:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 16:47:42,589 - kedro.io.data_catalog - INFO - Saving data to best_hyper_params (JSONDataset)...
+2025-05-29 16:47:42,589 - kedro.runner.sequential_runner - WARNING - There are 3 nodes that have not run.
+You can resume the pipeline run from the nearest nodes with persisted inputs by adding the following argument to your previous command:
+  --from-nodes "split_data_node"
+2025-05-29 16:50:30,476 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-29 16:50:31,243 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-29 16:50:31,346 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-29 16:50:32,655 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-29 16:53:35,724 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-29 16:53:36,539 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-29 16:53:36,642 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-29 16:53:37,966 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-29 17:04:27,308 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-29 17:04:29,923 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-29 17:04:30,091 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-29 17:04:39,297 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-29 17:04:39,566 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2025-05-29 17:04:39,581 - kedro.io.data_catalog - INFO - Loading data from model_input_table (ParquetDataset)...
+2025-05-29 17:04:41,417 - kedro.io.data_catalog - INFO - Loading data from params:model_options (MemoryDataset)...
+2025-05-29 17:04:41,420 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([model_input_table;params:model_options]) -> [X_train;X_test;y_train;y_test]
+2025-05-29 17:04:41,549 - kedro.io.data_catalog - INFO - Saving data to X_train (MemoryDataset)...
+2025-05-29 17:04:41,554 - kedro.io.data_catalog - INFO - Saving data to X_test (MemoryDataset)...
+2025-05-29 17:04:41,557 - kedro.io.data_catalog - INFO - Saving data to y_train (MemoryDataset)...
+2025-05-29 17:04:41,561 - kedro.io.data_catalog - INFO - Saving data to y_test (MemoryDataset)...
+2025-05-29 17:04:41,579 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2025-05-29 17:04:41,580 - kedro.runner.sequential_runner - INFO - Completed 1 out of 5 tasks
+2025-05-29 17:04:41,581 - kedro.io.data_catalog - INFO - Loading data from X_train (MemoryDataset)...
+2025-05-29 17:04:41,586 - kedro.io.data_catalog - INFO - Loading data from y_train (MemoryDataset)...
+2025-05-29 17:04:41,588 - kedro.pipeline.node - INFO - Running node: train_model_node: train_xgb_model([X_train;y_train]) -> [classifier]
+2025-05-29 17:04:44,256 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:44] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:44,810 - kedro.io.data_catalog - INFO - Saving data to classifier (PickleDataset)...
+2025-05-29 17:04:44,819 - kedro.runner.sequential_runner - INFO - Completed node: train_model_node
+2025-05-29 17:04:44,821 - kedro.runner.sequential_runner - INFO - Completed 2 out of 5 tasks
+2025-05-29 17:04:44,824 - kedro.io.data_catalog - INFO - Loading data from X_train (MemoryDataset)...
+2025-05-29 17:04:44,829 - kedro.io.data_catalog - INFO - Loading data from y_train (MemoryDataset)...
+2025-05-29 17:04:44,832 - kedro.pipeline.node - INFO - Running node: tunning_params_node: get_best_hip_params([X_train;y_train]) -> [best_hyper_params]
+2025-05-29 17:04:44,956 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:44] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:45,651 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:45] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:46,425 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:46] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:47,077 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:47] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:47,824 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:47] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:48,354 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:48] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:48,993 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:48] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:50,142 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:50] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:51,236 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:51] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:52,620 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:52] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:53,318 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:53] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:54,087 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:54] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:54,770 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:54] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:55,686 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:55] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:56,619 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:56] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:57,634 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:57] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:58,652 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:58] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:04:59,599 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:04:59] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:00,577 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:00] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:01,865 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:03,374 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:03] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:04,815 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:04] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:06,231 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:06] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:07,945 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:07] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:09,345 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:09] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:09,834 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:09] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:10,463 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:10] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:11,010 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:12,311 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:12] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:13,915 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:15,175 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:15] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:17,283 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:17] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:20,206 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:20] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:22,553 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:22] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:23,077 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:23] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:24,012 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:24] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:24,530 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:24] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:26,156 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:27,885 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:27] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:29,397 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:29] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:30,016 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:30] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:31,265 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:31] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:32,220 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:32] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:33,392 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:33] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:34,696 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:34] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:35,842 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:35] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:36,489 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:36] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:37,278 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:37] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:37,883 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:37] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:38,729 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:38] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:39,598 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:39] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:40,294 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:40] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:41,780 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:43,284 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:43] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:44,884 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:44] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:45,375 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:45] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:45,882 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:45] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:46,278 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:46] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:48,343 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:48] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:50,490 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:50] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:52,597 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:05:52] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:05:54,688 - kedro.io.data_catalog - INFO - Saving data to best_hyper_params (JSONDataset)...
+2025-05-29 17:05:54,703 - kedro.runner.sequential_runner - WARNING - There are 3 nodes that have not run.
+You can resume the pipeline run from the nearest nodes with persisted inputs by adding the following argument to your previous command:
+  --from-nodes "split_data_node"
+2025-05-29 17:12:50,834 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-29 17:12:53,493 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\kedro\framework\cli\utils.py:111: KedroDeprecationWarning: DeprecationWarning: 'kedro run' flag '--namespace' is deprecated and will be replaced with '--namespaces' from Kedro 1.0.0 to allow running multiple namespaces. 
+  warnings.warn(message, KedroDeprecationWarning)
+
+2025-05-29 17:12:53,636 - kedro.framework.session.session - INFO - Kedro project cancelations-prediction
+2025-05-29 17:13:00,759 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-29 17:13:01,019 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2025-05-29 17:13:01,035 - kedro.io.data_catalog - INFO - Loading data from model_input_table (ParquetDataset)...
+2025-05-29 17:13:02,096 - kedro.io.data_catalog - INFO - Loading data from params:model_options (MemoryDataset)...
+2025-05-29 17:13:02,107 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([model_input_table;params:model_options]) -> [X_train;X_test;y_train;y_test]
+2025-05-29 17:13:02,178 - kedro.io.data_catalog - INFO - Saving data to X_train (MemoryDataset)...
+2025-05-29 17:13:02,182 - kedro.io.data_catalog - INFO - Saving data to X_test (MemoryDataset)...
+2025-05-29 17:13:02,185 - kedro.io.data_catalog - INFO - Saving data to y_train (MemoryDataset)...
+2025-05-29 17:13:02,188 - kedro.io.data_catalog - INFO - Saving data to y_test (MemoryDataset)...
+2025-05-29 17:13:02,205 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2025-05-29 17:13:02,205 - kedro.runner.sequential_runner - INFO - Completed 1 out of 5 tasks
+2025-05-29 17:13:02,209 - kedro.io.data_catalog - INFO - Loading data from X_train (MemoryDataset)...
+2025-05-29 17:13:02,214 - kedro.io.data_catalog - INFO - Loading data from y_train (MemoryDataset)...
+2025-05-29 17:13:02,219 - kedro.pipeline.node - INFO - Running node: train_model_node: train_xgb_model([X_train;y_train]) -> [classifier]
+2025-05-29 17:13:05,526 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:05] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:05,989 - kedro.io.data_catalog - INFO - Saving data to classifier (PickleDataset)...
+2025-05-29 17:13:06,004 - kedro.runner.sequential_runner - INFO - Completed node: train_model_node
+2025-05-29 17:13:06,006 - kedro.runner.sequential_runner - INFO - Completed 2 out of 5 tasks
+2025-05-29 17:13:06,008 - kedro.io.data_catalog - INFO - Loading data from X_train (MemoryDataset)...
+2025-05-29 17:13:06,011 - kedro.io.data_catalog - INFO - Loading data from y_train (MemoryDataset)...
+2025-05-29 17:13:06,017 - kedro.pipeline.node - INFO - Running node: tunning_params_node: get_best_hip_params([X_train;y_train]) -> [best_hyper_params]
+2025-05-29 17:13:06,077 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:06] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:06,657 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:06] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:07,113 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:07] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:07,579 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:07] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:07,995 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:07] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:08,325 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:08] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:08,684 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:08] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:09,641 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:09] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:10,662 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:10] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:11,594 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:12,327 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:12] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:13,077 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:13,743 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:14,290 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:14] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:14,775 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:14] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:15,253 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:15] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:16,786 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:16] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:18,401 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:18] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:19,973 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:19] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:20,191 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:20] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:20,451 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:20] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:20,691 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:20] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:21,152 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:21] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:21,617 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:21] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:22,073 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:22] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:23,050 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:23] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:24,034 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:24] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:25,155 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:25] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:25,767 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:25] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:26,350 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:26,938 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:27,923 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:27] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:28,730 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:28] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:29,590 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:29] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:31,281 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:31] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:32,902 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:32] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:34,712 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:34] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:35,096 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:35] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:35,498 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:35] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:35,893 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:35] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:37,044 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:37] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:38,277 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:38] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:39,427 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:39] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:40,011 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:40] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:40,608 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:40] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:41,059 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:41,346 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:41,706 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:41,992 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:42,717 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:42] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:43,452 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:43] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:44,105 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:44] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:44,559 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:44] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:44,971 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:44] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:45,372 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:45] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:47,473 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:47] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:49,622 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:49] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:51,736 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:51] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:52,535 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:52] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:53,174 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:53] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:53,791 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:53] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:55,958 - kedro.io.data_catalog - INFO - Saving data to best_hyper_params (JSONDataset)...
+2025-05-29 17:13:55,958 - kedro.runner.sequential_runner - INFO - Completed node: tunning_params_node
+2025-05-29 17:13:55,958 - kedro.runner.sequential_runner - INFO - Completed 3 out of 5 tasks
+2025-05-29 17:13:55,965 - kedro.io.data_catalog - INFO - Loading data from X_train (MemoryDataset)...
+2025-05-29 17:13:55,972 - kedro.io.data_catalog - INFO - Loading data from y_train (MemoryDataset)...
+2025-05-29 17:13:55,977 - kedro.io.data_catalog - INFO - Loading data from best_hyper_params (JSONDataset)...
+2025-05-29 17:13:55,992 - kedro.pipeline.node - INFO - Running node: train_final_model_node: train_with_best_param([X_train;y_train;best_hyper_params]) -> [best_classifier]
+2025-05-29 17:13:56,050 - py.warnings - WARNING - D:\javih\TEC\8° SEMESTRE\proyectos_ingenieria\deployment\cancelations-prediction\.venv\lib\site-packages\xgboost\core.py:158: UserWarning: [17:13:56] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2025-05-29 17:13:58,528 - kedro.io.data_catalog - INFO - Saving data to best_classifier (PickleDataset)...
+2025-05-29 17:13:58,555 - kedro.runner.sequential_runner - INFO - Completed node: train_final_model_node
+2025-05-29 17:13:58,558 - kedro.runner.sequential_runner - INFO - Completed 4 out of 5 tasks
+2025-05-29 17:13:58,561 - kedro.io.data_catalog - INFO - Loading data from best_classifier (PickleDataset)...
+2025-05-29 17:13:58,788 - kedro.io.data_catalog - INFO - Loading data from X_test (MemoryDataset)...
+2025-05-29 17:13:58,792 - kedro.io.data_catalog - INFO - Loading data from y_test (MemoryDataset)...
+2025-05-29 17:13:58,794 - kedro.pipeline.node - INFO - Running node: evaluate_model_node: evaluate_model([best_classifier;X_test;y_test]) -> None
+2025-05-29 17:13:58,889 - cancelations_prediction.pipelines.data_science.nodes - INFO - Model has a recall of %.3f on test data.
+2025-05-29 17:13:58,892 - kedro.runner.sequential_runner - INFO - Completed node: evaluate_model_node
+2025-05-29 17:13:58,893 - kedro.runner.sequential_runner - INFO - Completed 5 out of 5 tasks
+2025-05-29 17:13:58,896 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2025-05-30 21:34:04,158 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-30 21:34:14,880 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2025-05-30 21:34:41,179 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. If you want to opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. Read more at https://docs.kedro.org/en/stable/configuration/telemetry.html
+2025-05-30 21:37:40,086 - kedro_viz.models.flowchart.node_metadata - WARNING - 'model_input_table' could not be previewed. Full exception: ImportError: numpy.core.multiarray failed to import
