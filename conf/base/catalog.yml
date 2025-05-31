@@ -1,0 +1,82 @@
+# Here you can define all your datasets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+### ------- DATASETS --------
+
+iar_Reservaciones:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/iar_Reservaciones.csv
+
+id_Agencias:
+  type: pandas.ExcelDataset
+  filepath: data/01_raw/ID_Agencias.xlsx
+
+id_Canales:
+  type: pandas.ExcelDataset
+  filepath: data/01_raw/ID_Canales.xlsx
+
+id_Empresa:
+  type: pandas.ExcelDataset
+  filepath: data/01_raw/ID_Empresa.xlsx
+
+id_Estados:
+  type: pandas.ExcelDataset
+  filepath: data/01_raw/ID_Estados.xlsx
+
+id_Habitacion:
+  type: pandas.ExcelDataset
+  filepath: data/01_raw/ID_Habitacion.xlsx
+
+id_Paises:
+  type: pandas.ExcelDataset
+  filepath: data/01_raw/ID_Paises.xlsx
+
+id_Paquete:
+  type: pandas.ExcelDataset
+  filepath: data/01_raw/ID_Paquete.xlsx
+
+id_Programa:
+  type: pandas.ExcelDataset
+  filepath: data/01_raw/ID_Programa.xlsx
+
+id_Reservaciones:
+  type: pandas.ExcelDataset
+  filepath: data/01_raw/ID_Reservaciones.xlsx
+
+id_Segmento:
+  type: pandas.ExcelDataset
+  filepath: data/01_raw/ID_Segmento.xlsx
+
+
+### MODELS
+
+classifier:
+  type: pickle.PickleDataset
+  filepath: data/06_models/classifier.pickle
+  versioned: true
+
+best_model:
+  type: pickle.PickleDataset
+  filepath: data/06_models/best_model.pickle
+  versioned: true
+
+best_hyper_params:
+  type: json.JSONDataset
+  filepath: data/06_models/best_hyper_params.json
+
+best_classifier:
+  type: pickle.PickleDataset
+  filepath: data/06_models/final_model.pickle
+
+
+### Outputs funciones
+
+processed_reservas:
+  type: pandas.ParquetDataset
+  filepath: data/02_intermediate/limpieza_datos.parquet
+
+model_input_table:
+  type: pandas.ParquetDataset
+  filepath: data/02_intermediate/reservas_features.parquet
